@@ -21,7 +21,7 @@
 
 
 
-|               Version               |                                                                                                                                                  Getx                                                      |                                                                                                       |
+|               Version               |                 Getx                    |                                                                                                       
 |:-----------------------------------:|:------------------------------------------------------------------------------------------------------:|
 |               Branch                |    | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/master)     <br/> (master branch) |  
 
